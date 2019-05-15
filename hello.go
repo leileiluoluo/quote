@@ -1,6 +1,6 @@
 package quote
 
-func Hello() string {
+func Hi() string {
 	return "Hello World!"
 }
 
